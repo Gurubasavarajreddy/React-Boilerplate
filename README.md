@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App [JSX]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -321,7 +321,7 @@ source.fixAll.eslint says to fix any issues in the file being saved.
 You can remove any languages that you don't want ESLint to check from the validation list
 
 ## **settings > Extenstions > eslint enable status bar > click on es symbol for reload**
-## **command palette > reload window** 
+
 
 ## Reloading VS Code for Changes to Take Effect
 
@@ -335,6 +335,7 @@ Run the command; you should see a loader pop up on VS Code's status bar saying I
 Now, just open up a file and mess it up on purpose; you should see squiggly red lines if the violation is treated as an error and orange if it's a warning. VS Code will auto-format your code with ESLint when you save the file.
 
 If that doesn't work, try the command Developer: Reload Window instead. This reloads your VS Code window rather than restarting the JavaScript and TypeScript language servers.
+**command palette > reload window** 
 
 ## ESLint Still Not Formatting on Save?
 
